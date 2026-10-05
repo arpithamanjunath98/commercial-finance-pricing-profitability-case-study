@@ -1,0 +1,91 @@
+Customer_ID,Customer_Name,Channel,Region,Tier,Payment_Terms_Days,Account_Status,Source
+C001,Northgate Grocers 01,Grocery,North,Strategic,45,Active,Synthetic portfolio master data
+C002,Northgate Grocers 02,Grocery,Wales,Strategic,45,Active,Synthetic portfolio master data
+C003,Northgate Grocers 03,Grocery,London & South East,Strategic,45,Active,Synthetic portfolio master data
+C004,Northgate Grocers 04,Grocery,North,Core,30,Active,Synthetic portfolio master data
+C005,Northgate Grocers 05,Grocery,Wales,Core,30,Active,Synthetic portfolio master data
+C006,Northgate Grocers 06,Grocery,London & South East,Core,30,Active,Synthetic portfolio master data
+C007,Northgate Grocers 07,Grocery,North,Core,30,Active,Synthetic portfolio master data
+C008,Northgate Grocers 08,Grocery,Wales,Core,30,Active,Synthetic portfolio master data
+C009,Northgate Grocers 09,Grocery,London & South East,Core,30,Active,Synthetic portfolio master data
+C010,Northgate Grocers 10,Grocery,North,Long Tail,21,Active,Synthetic portfolio master data
+C011,Northgate Grocers 11,Grocery,Wales,Long Tail,21,Active,Synthetic portfolio master data
+C012,Northgate Grocers 12,Grocery,London & South East,Long Tail,21,Active,Synthetic portfolio master data
+C013,Northgate Grocers 13,Grocery,North,Long Tail,21,Active,Synthetic portfolio master data
+C014,Northgate Grocers 14,Grocery,Wales,Long Tail,21,Active,Synthetic portfolio master data
+C015,Northgate Grocers 15,Grocery,London & South East,Long Tail,21,Active,Synthetic portfolio master data
+C016,WellSpring Pharmacy 01,Pharmacy,Northern Ireland,Strategic,45,Active,Synthetic portfolio master data
+C017,WellSpring Pharmacy 02,Pharmacy,Midlands,Strategic,45,Active,Synthetic portfolio master data
+C018,WellSpring Pharmacy 03,Pharmacy,Scotland,Strategic,45,Active,Synthetic portfolio master data
+C019,WellSpring Pharmacy 04,Pharmacy,Northern Ireland,Core,30,Active,Synthetic portfolio master data
+C020,WellSpring Pharmacy 05,Pharmacy,Midlands,Core,30,Active,Synthetic portfolio master data
+C021,WellSpring Pharmacy 06,Pharmacy,Scotland,Core,30,Active,Synthetic portfolio master data
+C022,WellSpring Pharmacy 07,Pharmacy,Northern Ireland,Core,30,Active,Synthetic portfolio master data
+C023,WellSpring Pharmacy 08,Pharmacy,Midlands,Core,30,Active,Synthetic portfolio master data
+C024,WellSpring Pharmacy 09,Pharmacy,Scotland,Core,30,Active,Synthetic portfolio master data
+C025,WellSpring Pharmacy 10,Pharmacy,Northern Ireland,Long Tail,21,Active,Synthetic portfolio master data
+C026,WellSpring Pharmacy 11,Pharmacy,Midlands,Long Tail,21,Active,Synthetic portfolio master data
+C027,WellSpring Pharmacy 12,Pharmacy,Scotland,Long Tail,21,Active,Synthetic portfolio master data
+C028,WellSpring Pharmacy 13,Pharmacy,Northern Ireland,Long Tail,21,Active,Synthetic portfolio master data
+C029,WellSpring Pharmacy 14,Pharmacy,Midlands,Long Tail,21,Active,Synthetic portfolio master data
+C030,WellSpring Pharmacy 15,Pharmacy,Scotland,Long Tail,21,Active,Synthetic portfolio master data
+C031,HomeCart Online 01,Online Marketplace,North,Strategic,45,Active,Synthetic portfolio master data
+C032,HomeCart Online 02,Online Marketplace,Wales,Strategic,45,Active,Synthetic portfolio master data
+C033,HomeCart Online 03,Online Marketplace,London & South East,Strategic,45,Active,Synthetic portfolio master data
+C034,HomeCart Online 04,Online Marketplace,North,Core,30,Active,Synthetic portfolio master data
+C035,HomeCart Online 05,Online Marketplace,Wales,Core,30,Active,Synthetic portfolio master data
+C036,HomeCart Online 06,Online Marketplace,London & South East,Core,30,Active,Synthetic portfolio master data
+C037,HomeCart Online 07,Online Marketplace,North,Core,30,Active,Synthetic portfolio master data
+C038,HomeCart Online 08,Online Marketplace,Wales,Core,30,Active,Synthetic portfolio master data
+C039,HomeCart Online 09,Online Marketplace,London & South East,Core,30,Active,Synthetic portfolio master data
+C040,HomeCart Online 10,Online Marketplace,North,Long Tail,21,Active,Synthetic portfolio master data
+C041,HomeCart Online 11,Online Marketplace,Wales,Long Tail,21,Active,Synthetic portfolio master data
+C042,HomeCart Online 12,Online Marketplace,London & South East,Long Tail,21,Active,Synthetic portfolio master data
+C043,HomeCart Online 13,Online Marketplace,North,Long Tail,21,Active,Synthetic portfolio master data
+C044,HomeCart Online 14,Online Marketplace,Wales,Long Tail,21,Active,Synthetic portfolio master data
+C045,HomeCart Online 15,Online Marketplace,London & South East,Long Tail,21,Active,Synthetic portfolio master data
+C046,Direct Family Customer 01,DTC,Northern Ireland,Strategic,45,Active,Synthetic portfolio master data
+C047,Direct Family Customer 02,DTC,Midlands,Strategic,45,Active,Synthetic portfolio master data
+C048,Direct Family Customer 03,DTC,Scotland,Strategic,45,Active,Synthetic portfolio master data
+C049,Direct Family Customer 04,DTC,Northern Ireland,Core,30,Active,Synthetic portfolio master data
+C050,Direct Family Customer 05,DTC,Midlands,Core,30,Active,Synthetic portfolio master data
+C051,Direct Family Customer 06,DTC,Scotland,Core,30,Active,Synthetic portfolio master data
+C052,Direct Family Customer 07,DTC,Northern Ireland,Core,30,Active,Synthetic portfolio master data
+C053,Direct Family Customer 08,DTC,Midlands,Core,30,Active,Synthetic portfolio master data
+C054,Direct Family Customer 09,DTC,Scotland,Core,30,Active,Synthetic portfolio master data
+C055,Direct Family Customer 10,DTC,Northern Ireland,Long Tail,21,Active,Synthetic portfolio master data
+C056,Direct Family Customer 11,DTC,Midlands,Long Tail,21,Active,Synthetic portfolio master data
+C057,Direct Family Customer 12,DTC,Scotland,Long Tail,21,Active,Synthetic portfolio master data
+C058,Direct Family Customer 13,DTC,Northern Ireland,Long Tail,21,Active,Synthetic portfolio master data
+C059,Direct Family Customer 14,DTC,Midlands,Long Tail,21,Active,Synthetic portfolio master data
+C060,Direct Family Customer 15,DTC,Scotland,Long Tail,21,Active,Synthetic portfolio master data
+C061,FamilyCare Wholesale 01,Wholesale,North,Strategic,45,Active,Synthetic portfolio master data
+C062,FamilyCare Wholesale 02,Wholesale,Wales,Strategic,45,Active,Synthetic portfolio master data
+C063,FamilyCare Wholesale 03,Wholesale,London & South East,Strategic,45,Active,Synthetic portfolio master data
+C064,FamilyCare Wholesale 04,Wholesale,North,Core,30,Active,Synthetic portfolio master data
+C065,FamilyCare Wholesale 05,Wholesale,Wales,Core,30,Active,Synthetic portfolio master data
+C066,FamilyCare Wholesale 06,Wholesale,London & South East,Core,30,Active,Synthetic portfolio master data
+C067,FamilyCare Wholesale 07,Wholesale,North,Core,30,Active,Synthetic portfolio master data
+C068,FamilyCare Wholesale 08,Wholesale,Wales,Core,30,Active,Synthetic portfolio master data
+C069,FamilyCare Wholesale 09,Wholesale,London & South East,Core,30,Active,Synthetic portfolio master data
+C070,FamilyCare Wholesale 10,Wholesale,North,Long Tail,21,Active,Synthetic portfolio master data
+C071,FamilyCare Wholesale 11,Wholesale,Wales,Long Tail,21,Active,Synthetic portfolio master data
+C072,FamilyCare Wholesale 12,Wholesale,London & South East,Long Tail,21,Active,Synthetic portfolio master data
+C073,FamilyCare Wholesale 13,Wholesale,North,Long Tail,21,Active,Synthetic portfolio master data
+C074,FamilyCare Wholesale 14,Wholesale,Wales,Long Tail,21,Active,Synthetic portfolio master data
+C075,FamilyCare Wholesale 15,Wholesale,London & South East,Long Tail,21,Active,Synthetic portfolio master data
+C076,LittleNest Retail 01,Baby Specialist,Northern Ireland,Strategic,45,Active,Synthetic portfolio master data
+C077,LittleNest Retail 02,Baby Specialist,Midlands,Strategic,45,Active,Synthetic portfolio master data
+C078,LittleNest Retail 03,Baby Specialist,Scotland,Strategic,45,Active,Synthetic portfolio master data
+C079,LittleNest Retail 04,Baby Specialist,Northern Ireland,Core,30,Active,Synthetic portfolio master data
+C080,LittleNest Retail 05,Baby Specialist,Midlands,Core,30,Active,Synthetic portfolio master data
+C081,LittleNest Retail 06,Baby Specialist,Scotland,Core,30,Active,Synthetic portfolio master data
+C082,LittleNest Retail 07,Baby Specialist,Northern Ireland,Core,30,Active,Synthetic portfolio master data
+C083,LittleNest Retail 08,Baby Specialist,Midlands,Core,30,Active,Synthetic portfolio master data
+C084,LittleNest Retail 09,Baby Specialist,Scotland,Core,30,Active,Synthetic portfolio master data
+C085,LittleNest Retail 10,Baby Specialist,Northern Ireland,Long Tail,21,Active,Synthetic portfolio master data
+C086,LittleNest Retail 11,Baby Specialist,Midlands,Long Tail,21,Active,Synthetic portfolio master data
+C087,LittleNest Retail 12,Baby Specialist,Scotland,Long Tail,21,Active,Synthetic portfolio master data
+C088,LittleNest Retail 13,Baby Specialist,Northern Ireland,Long Tail,21,Active,Synthetic portfolio master data
+C089,LittleNest Retail 14,Baby Specialist,Midlands,Long Tail,21,Active,Synthetic portfolio master data
+C090,LittleNest Retail 15,Baby Specialist,Scotland,Long Tail,21,Active,Synthetic portfolio master data

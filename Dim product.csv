@@ -1,0 +1,49 @@
+Product_ID,Brand,Category,SKU_Name,Pack_Size,Base_List_Price,Standard_Unit_Cost,Launch_Status,Source
+P001,Nurtura,Diapers,Nurtura Diapers 24 pack,24 pack,10.5,5.55,Core,Synthetic portfolio master data
+P002,Nurtura,Diapers,Nurtura Diapers 40 pack,40 pack,16.28,8.58,Core,Synthetic portfolio master data
+P003,Nurtura,Wipes,Nurtura Wipes 4 pack,4 pack,5.2,2.74,Core,Synthetic portfolio master data
+P004,Nurtura,Wipes,Nurtura Wipes 8 pack,8 pack,8.06,4.06,Core,Synthetic portfolio master data
+P005,Nurtura,Baby Bath,Nurtura Baby Bath 250ml,250ml,4.8,2.29,Core,Synthetic portfolio master data
+P006,Nurtura,Baby Bath,Nurtura Baby Bath 500ml,500ml,7.44,3.6,Core,Synthetic portfolio master data
+P007,Nurtura,Skincare,Nurtura Skincare 100ml,100ml,6.4,2.99,Growth,Synthetic portfolio master data
+P008,Nurtura,Skincare,Nurtura Skincare 200ml,200ml,9.92,4.57,Core,Synthetic portfolio master data
+P009,Nurtura,Feeding,Nurtura Feeding 2 pack,2 pack,8.2,4.03,Core,Synthetic portfolio master data
+P010,Nurtura,Feeding,Nurtura Feeding 4 pack,4 pack,8.2,4.14,Core,Synthetic portfolio master data
+P011,Nurtura,Nursery,Nurtura Nursery Single,Single,14.5,8.03,Core,Synthetic portfolio master data
+P012,Nurtura,Nursery,Nurtura Nursery Twin pack,Twin pack,22.48,12.47,Core,Synthetic portfolio master data
+P013,LittleBloom,Diapers,LittleBloom Diapers 24 pack,24 pack,9.97,5.82,Core,Synthetic portfolio master data
+P014,LittleBloom,Diapers,LittleBloom Diapers 40 pack,40 pack,15.46,8.49,Growth,Synthetic portfolio master data
+P015,LittleBloom,Wipes,LittleBloom Wipes 4 pack,4 pack,4.94,2.73,Core,Synthetic portfolio master data
+P016,LittleBloom,Wipes,LittleBloom Wipes 8 pack,8 pack,7.66,4.09,Core,Synthetic portfolio master data
+P017,LittleBloom,Baby Bath,LittleBloom Baby Bath 250ml,250ml,4.56,2.2,Core,Synthetic portfolio master data
+P018,LittleBloom,Baby Bath,LittleBloom Baby Bath 500ml,500ml,7.07,3.45,Core,Synthetic portfolio master data
+P019,LittleBloom,Skincare,LittleBloom Skincare 100ml,100ml,6.08,2.85,Core,Synthetic portfolio master data
+P020,LittleBloom,Skincare,LittleBloom Skincare 200ml,200ml,9.42,4.62,Core,Synthetic portfolio master data
+P021,LittleBloom,Feeding,LittleBloom Feeding 2 pack,2 pack,7.79,3.94,Growth,Synthetic portfolio master data
+P022,LittleBloom,Feeding,LittleBloom Feeding 4 pack,4 pack,7.79,4.01,Core,Synthetic portfolio master data
+P023,LittleBloom,Nursery,LittleBloom Nursery Single,Single,13.77,7.56,Core,Synthetic portfolio master data
+P024,LittleBloom,Nursery,LittleBloom Nursery Twin pack,Twin pack,21.35,12.47,Core,Synthetic portfolio master data
+P025,PureNest,Diapers,PureNest Diapers 24 pack,24 pack,11.34,5.53,Core,Synthetic portfolio master data
+P026,PureNest,Diapers,PureNest Diapers 40 pack,40 pack,17.58,8.53,Core,Synthetic portfolio master data
+P027,PureNest,Wipes,PureNest Wipes 4 pack,4 pack,5.62,2.69,Core,Synthetic portfolio master data
+P028,PureNest,Wipes,PureNest Wipes 8 pack,8 pack,8.7,4.25,Growth,Synthetic portfolio master data
+P029,PureNest,Baby Bath,PureNest Baby Bath 250ml,250ml,5.18,2.19,Core,Synthetic portfolio master data
+P030,PureNest,Baby Bath,PureNest Baby Bath 500ml,500ml,8.04,3.47,Core,Synthetic portfolio master data
+P031,PureNest,Skincare,PureNest Skincare 100ml,100ml,6.91,2.89,Core,Synthetic portfolio master data
+P032,PureNest,Skincare,PureNest Skincare 200ml,200ml,10.71,4.51,Core,Synthetic portfolio master data
+P033,PureNest,Feeding,PureNest Feeding 2 pack,2 pack,8.86,4.13,Core,Synthetic portfolio master data
+P034,PureNest,Feeding,PureNest Feeding 4 pack,4 pack,8.86,4.01,Core,Synthetic portfolio master data
+P035,PureNest,Nursery,PureNest Nursery Single,Single,15.66,8.0,Growth,Synthetic portfolio master data
+P036,PureNest,Nursery,PureNest Nursery Twin pack,Twin pack,24.27,11.99,Core,Synthetic portfolio master data
+P037,TinySteps,Diapers,TinySteps Diapers 24 pack,24 pack,9.45,5.56,Core,Synthetic portfolio master data
+P038,TinySteps,Diapers,TinySteps Diapers 40 pack,40 pack,14.65,9.1,Core,Synthetic portfolio master data
+P039,TinySteps,Wipes,TinySteps Wipes 4 pack,4 pack,4.68,2.59,Core,Synthetic portfolio master data
+P040,TinySteps,Wipes,TinySteps Wipes 8 pack,8 pack,7.25,4.21,Core,Synthetic portfolio master data
+P041,TinySteps,Baby Bath,TinySteps Baby Bath 250ml,250ml,4.32,2.33,Core,Synthetic portfolio master data
+P042,TinySteps,Baby Bath,TinySteps Baby Bath 500ml,500ml,6.7,3.41,Growth,Synthetic portfolio master data
+P043,TinySteps,Skincare,TinySteps Skincare 100ml,100ml,5.76,2.91,Core,Synthetic portfolio master data
+P044,TinySteps,Skincare,TinySteps Skincare 200ml,200ml,8.93,4.39,Core,Synthetic portfolio master data
+P045,TinySteps,Feeding,TinySteps Feeding 2 pack,2 pack,7.38,4.02,Core,Synthetic portfolio master data
+P046,TinySteps,Feeding,TinySteps Feeding 4 pack,4 pack,7.38,4.23,Core,Synthetic portfolio master data
+P047,TinySteps,Nursery,TinySteps Nursery Single,Single,13.05,7.93,Core,Synthetic portfolio master data
+P048,TinySteps,Nursery,TinySteps Nursery Twin pack,Twin pack,20.23,11.65,Core,Synthetic portfolio master data

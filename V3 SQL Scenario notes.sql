@@ -1,0 +1,4 @@
+-- Project 2 V3
+-- The V3 customer repricing scenario is intentionally implemented in Excel because it uses
+-- editable commercial assumptions (recovery % and volume retention %) rather than historical SQL facts.
+-- Source customer economics continue to come from commercial_finance.db / commercial_finance_v2.sql.
